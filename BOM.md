@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Resistor Kit](https://www.aliexpress.us/item/3256811586219421.html?spm=a2g0o.productlist.main.1.5e1823a4LIpXHK&algo_pvid=01190359-05dd-4b21-a778-0d5158a78f8a&algo_exp_id=01190359-05dd-4b21-a778-0d5158a78f8a-0&pdp_ext_f=%7B"order"%3A"9013"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21USD%214.02%211.09%21%21%2126.81%217.29%21%4021032e4e17915996797931312e0fde%2112000056500803485%21sea%21US%218275042622%21ABX%211%210%21n_tag%3A-29910%3Bd%3A865dbe95%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=JMKgrJIMSLZg&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011772534173%7C_p_origin_prod%3A) | Managing Current flow in PCB | 1 | $1.09 | $1.09 | [AliExpress](https://www.aliexpress.us/item/3256811586219421.html?spm=a2g0o.productlist.main.1.5e1823a4LIpXHK&algo_pvid=01190359-05dd-4b21-a778-0d5158a78f8a&algo_exp_id=01190359-05dd-4b21-a778-0d5158a78f8a-0&pdp_ext_f=%7B"order"%3A"9013"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21USD%214.02%211.09%21%21%2126.81%217.29%21%4021032e4e17915996797931312e0fde%2112000056500803485%21sea%21US%218275042622%21ABX%211%210%21n_tag%3A-29910%3Bd%3A865dbe95%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=JMKgrJIMSLZg&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011772534173%7C_p_origin_prod%3A) |
 | **Parts subtotal** | — | — | — | **$1.09** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$1.09** | — |
+| **Tax & shipping** | — | — | — | **$9.40** | — |
+| **Total** | — | — | — | **$10.49** | — |
 
-$28.91 left of the tier's funding.
+$19.51 left of the tier's funding.

@@ -114,7 +114,7 @@ After completing the practice board, I moved on to creating my first prototype P
 
 # Hack Life Journal
 
-## Tuesday, October 7th
+## October 7th
 
 Today, I finalized my wiring diagram and connected the OLED display and DHT22 temperature/humidity sensor so the OLED could display live temperature readings.
 

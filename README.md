@@ -12,9 +12,10 @@ A custom PCB designed in KiCad that displays temperature and humidity data from 
 
 <img width="1122" height="641" alt="Screenshot 2026-10-10 at 4 15 55 PM" src="https://github.com/user-attachments/assets/32760269-a535-44d5-aa80-0eeb0c410539" />
 
-### 3D View
+### 3D View + Rendered
 
 <img width="1180" height="857" alt="Screenshot 2026-10-10 at 3 25 31 PM" src="https://github.com/user-attachments/assets/c416cf06-d510-421f-a862-923b134c8a09" />
+<img width="1243" height="845" alt="Screenshot 2026-10-10 at 4 54 49 PM" src="https://github.com/user-attachments/assets/23c52662-1e5c-4d98-a5e8-731c88853360" />
 
 ## Components
 
